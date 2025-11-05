@@ -1,85 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c2ae6d3b-b03d-4b89-bdc4-2c989b4f801c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dx2-matsuno.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/blueimp-gallery-video.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/blueimp-gallery.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/controls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/custom-bg-blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/custom-bg-pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/custom-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/custom-icon-comment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/custom-icon-photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/custom-icon-retweet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/pinterest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/podcast.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/share_this.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/twitter_bird.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/vimeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_pinterest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_podcast.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_share_this.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_twitter_bird.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/white_vimeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/social-buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GECCO2022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GNMiner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GNMiner2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/UI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/algorithm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/annotation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icwsm23.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icwsm23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/involuntary_interface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/trend_dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_eng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/blueimp-gallery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/people_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publications_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teaching_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thumbs/matsuno.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,6 +90,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lyre"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dx2-matsuno/dx2-matsuno.github.io.git",
+    "accountId": "f92aaac3-1927-403d-82d0-d00aa7b869f4"
+  }
+}]]></component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -183,11 +126,15 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="37" />
     <option name="width" value="1470" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectId" id="3530sexZjnUGyE0dNblw6gkLokS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -210,13 +157,27 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -226,17 +187,12 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -251,6 +207,7 @@
       <workItem from="1719542772168" duration="621000" />
       <workItem from="1720004441508" duration="6626000" />
       <workItem from="1728552482751" duration="24820000" />
+      <workItem from="1762323657640" duration="5986000" />
     </task>
     <servers />
   </component>
@@ -281,7 +238,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
