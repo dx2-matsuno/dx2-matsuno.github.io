@@ -443,6 +443,15 @@ img.float-right {
 	margin-left: 30px;
 }
 
+img.thesis {
+    float: right;
+    margin-top: 9px;
+    margin-right: 0px;
+    margin-bottom: 12px;
+    margin-left: 30px;
+    border: 1px black solid;
+}
+
 img.publications-thumb {
 	width: 142px;
 	height: 188px;
@@ -485,6 +494,11 @@ img.publications-thumb {
 
 img.carousel-image {
 	width: 100%;
+}
+
+figcaption {
+    font-size: 14px;
+    font-weight: bold;
 }
 
 li.publication {
